@@ -17,7 +17,7 @@ Welcome to Your Landing Page repository! This landing page is built using HTML, 
 
 To get started with this landing page:
 
-1. Clone this repository: `git clone https://github.com/your-username/your-landing-page.git`
+1. Clone this repository: `git clone gh repo clone Ismail1500/Landing-Page-01`
 2. Open the `index.html` file in your preferred web browser.
 3. Customize the content in the HTML file to reflect your project or product details.
 
